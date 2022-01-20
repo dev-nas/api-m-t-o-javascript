@@ -1,4 +1,5 @@
 # api-m-t-o-javascript
 
 -  APPEL API METEO JAVASCRIPT 
-- La clé API a été créer sur le site https://openweathermap.org/ 
+
+- Création d'une clé API sur le site https://openweathermap.org/ 
